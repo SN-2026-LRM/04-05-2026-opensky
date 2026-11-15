@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:23:09.667564+00:00",
+  "updated_at": "2026-11-15T18:03:20.938171+00:00",
   "airport_icao": "SBGR",
   "airport_name": "Sao Paulo / Guarulhos",
   "source": "AviationStack",
@@ -9,8 +9,593 @@
       "airline": "Qatar Airways",
       "airport": "OTHH",
       "airport_name": "OTHH",
-      "scheduled": "2026-11-15T10:40:00+00:00",
-      "time_iso": "2026-11-15T10:40:00+00:00",
+      "scheduled": "2026-11-16T10:40:00+00:00",
+      "time_iso": "2026-11-16T10:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR785",
+      "airline": "Qatar Airways",
+      "airport": "OTHH",
+      "airport_name": "OTHH",
+      "scheduled": "2026-11-16T09:30:00+00:00",
+      "time_iso": "2026-11-16T09:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DL6342",
+      "airline": "Delta Air Lines",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T21:00:00+00:00",
+      "time_iso": "2026-11-15T21:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR7708",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T21:05:00+00:00",
+      "time_iso": "2026-11-15T21:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3693",
+      "airline": "LATAM Airlines",
+      "airport": "SBAR",
+      "airport_name": "SBAR",
+      "scheduled": "2026-11-15T17:10:00+00:00",
+      "time_iso": "2026-11-15T17:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3653",
+      "airline": "LATAM Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T16:35:00+00:00",
+      "time_iso": "2026-11-15T16:50:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3984",
+      "airline": "LATAM Airlines",
+      "airport": "SBMG",
+      "airport_name": "Maringa",
+      "scheduled": "2026-11-15T15:40:00+00:00",
+      "time_iso": "2026-11-15T15:40:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3527",
+      "airline": "LATAM Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T15:30:00+00:00",
+      "time_iso": "2026-11-15T15:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR7295",
+      "airline": "Qatar Airways",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LH4652",
+      "airline": "Lufthansa",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DL6139",
+      "airline": "Delta Air Lines",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8358",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LH4689",
+      "airline": "Lufthansa",
+      "airport": "SBFL",
+      "airport_name": "Florianopolis",
+      "scheduled": "2026-11-15T19:55:00+00:00",
+      "time_iso": "2026-11-15T19:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3357",
+      "airline": "LATAM Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T23:15:00+00:00",
+      "time_iso": "2026-11-15T23:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TK9040",
+      "airline": "Turkish Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T23:15:00+00:00",
+      "time_iso": "2026-11-15T23:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8306",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T23:15:00+00:00",
+      "time_iso": "2026-11-15T23:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA734",
+      "airline": "LATAM Airlines",
+      "airport": "SCEL",
+      "airport_name": "SCEL",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QF3904",
+      "airline": "Qantas",
+      "airport": "SCEL",
+      "airport_name": "SCEL",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4320",
+      "airline": "Azul",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T23:50:00+00:00",
+      "time_iso": "2026-11-15T23:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM7142",
+      "airline": "Copa Airlines",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T23:50:00+00:00",
+      "time_iso": "2026-11-15T23:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV4364",
+      "airline": "avianca",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T23:50:00+00:00",
+      "time_iso": "2026-11-15T23:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA4557",
+      "airline": "LATAM Airlines",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T21:50:00+00:00",
+      "time_iso": "2026-11-15T21:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP6316",
+      "airline": "TAP Air Portugal",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T21:50:00+00:00",
+      "time_iso": "2026-11-15T21:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR8427",
+      "airline": "Qatar Airways",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T21:50:00+00:00",
+      "time_iso": "2026-11-15T21:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8220",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T21:50:00+00:00",
+      "time_iso": "2026-11-15T21:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DM6088",
+      "airline": "Arajet",
+      "airport": "MDPC",
+      "airport_name": "MDPC",
+      "scheduled": "2026-11-16T04:20:00+00:00",
+      "time_iso": "2026-11-16T04:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM743",
+      "airline": "Copa Airlines",
+      "airport": "MPTO",
+      "airport_name": "MPTO",
+      "scheduled": "2026-11-16T03:45:00+00:00",
+      "time_iso": "2026-11-16T03:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "UA845",
+      "airline": "United Airlines",
+      "airport": "KORD",
+      "airport_name": "KORD",
+      "scheduled": "2026-11-16T07:15:00+00:00",
+      "time_iso": "2026-11-16T07:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5146",
+      "airline": "Qatar Airways",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP6276",
+      "airline": "TAP Air Portugal",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR7252",
+      "airline": "Qatar Airways",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8184",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5901",
+      "airline": "TAP Air Portugal",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T19:35:00+00:00",
+      "time_iso": "2026-11-15T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "KL9403",
+      "airline": "KLM",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T19:35:00+00:00",
+      "time_iso": "2026-11-15T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3723",
+      "airline": "Copa Airlines",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T19:35:00+00:00",
+      "time_iso": "2026-11-15T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV2631",
+      "airline": "avianca",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T19:35:00+00:00",
+      "time_iso": "2026-11-15T19:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31229",
+      "airline": "GOL",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5834",
+      "airline": "TAP Air Portugal",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "ET4157",
+      "airline": "Ethiopian Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "EK3666",
+      "airline": "Emirates",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3642",
+      "airline": "Copa Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV4726",
+      "airline": "avianca",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR7636",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AA7750",
+      "airline": "American Airlines",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T22:00:00+00:00",
+      "time_iso": "2026-11-15T22:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA8113",
+      "airline": "LATAM Airlines",
+      "airport": "MMMX",
+      "airport_name": "MMMX",
+      "scheduled": "2026-11-16T05:35:00+00:00",
+      "time_iso": "2026-11-16T05:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP87",
+      "airline": "TAP Air Portugal",
+      "airport": "LPPT",
+      "airport_name": "LPPT",
+      "scheduled": "2026-11-16T06:50:00+00:00",
+      "time_iso": "2026-11-16T06:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "3U7453",
+      "airline": "Sichuan Airlines",
+      "airport": "LTFM",
+      "airport_name": "LTFM",
+      "scheduled": "2026-11-16T04:20:00+00:00",
+      "time_iso": "2026-11-16T04:20:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AA951",
+      "airline": "American Airlines",
+      "airport": "KJFK",
+      "airport_name": "KJFK",
+      "scheduled": "2026-11-16T06:05:00+00:00",
+      "time_iso": "2026-11-16T06:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3665",
+      "airline": "LATAM Airlines",
+      "airport": "SBSI",
+      "airport_name": "SBSI",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3839",
+      "airline": "LATAM Airlines",
+      "airport": "SBCX",
+      "airport_name": "Caxias do Sul",
+      "scheduled": "2026-11-15T20:20:00+00:00",
+      "time_iso": "2026-11-15T20:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3115",
+      "airline": "LATAM Airlines",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-11-15T18:05:00+00:00",
+      "time_iso": "2026-11-15T17:57:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ4707",
+      "airline": "LATAM Airlines",
+      "airport": "SBIL",
+      "airport_name": "Ilheus",
+      "scheduled": "2026-11-15T16:40:00+00:00",
+      "time_iso": "2026-11-15T16:40:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3339",
+      "airline": "LATAM Airlines",
+      "airport": "SBPS",
+      "airport_name": "Porto Seguro",
+      "scheduled": "2026-11-15T16:05:00+00:00",
+      "time_iso": "2026-11-15T15:48:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3267",
+      "airline": "LATAM Airlines",
+      "airport": "SBGO",
+      "airport_name": "Goiania",
+      "scheduled": "2026-11-15T15:40:00+00:00",
+      "time_iso": "2026-11-15T15:22:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "TP6255",
+      "airline": "TAP Air Portugal",
+      "airport": "SBDB",
+      "airport_name": "SBDB",
+      "scheduled": "2026-11-15T14:00:00+00:00",
+      "time_iso": "2026-11-15T13:47:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "QR5135",
+      "airline": "Qatar Airways",
+      "airport": "SBDB",
+      "airport_name": "SBDB",
+      "scheduled": "2026-11-15T14:00:00+00:00",
+      "time_iso": "2026-11-15T13:47:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3369",
+      "airline": "LATAM Airlines",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TK9242",
+      "airline": "Turkish Airlines",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR4839",
+      "airline": "Qatar Airways",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8380",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-16T00:30:00+00:00",
+      "time_iso": "2026-11-16T00:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4831",
+      "airline": "Azul",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5232",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "ET1269",
+      "airline": "Ethiopian Airlines",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "EK7209",
+      "airline": "Emirates",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM7192",
+      "airline": "Copa Airlines",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV4375",
+      "airline": "avianca",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T22:15:00+00:00",
+      "time_iso": "2026-11-15T22:15:00+00:00",
       "status": "programado"
     },
     {
@@ -18,8 +603,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -27,8 +612,8 @@
       "airline": "Air Europa",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -36,8 +621,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -45,8 +630,8 @@
       "airline": "Ethiopian Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -54,8 +639,8 @@
       "airline": "Emirates",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -63,17 +648,8 @@
       "airline": "Copa Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AT9094",
-      "airline": "Royal Air Maroc",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -81,8 +657,8 @@
       "airline": "Aerolineas Argentinas",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -90,8 +666,8 @@
       "airline": "Aeromexico",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:45:00+00:00",
-      "time_iso": "2026-11-14T22:45:00+00:00",
+      "scheduled": "2026-11-15T22:45:00+00:00",
+      "time_iso": "2026-11-15T22:45:00+00:00",
       "status": "programado"
     },
     {
@@ -99,8 +675,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:20:00+00:00",
-      "time_iso": "2026-11-14T22:20:00+00:00",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     },
     {
@@ -108,8 +684,8 @@
       "airline": "Virgin Atlantic",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:20:00+00:00",
-      "time_iso": "2026-11-14T22:20:00+00:00",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     },
     {
@@ -117,8 +693,8 @@
       "airline": "Turkish Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:20:00+00:00",
-      "time_iso": "2026-11-14T22:20:00+00:00",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     },
     {
@@ -126,8 +702,8 @@
       "airline": "Qatar Airways",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:20:00+00:00",
-      "time_iso": "2026-11-14T22:20:00+00:00",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     },
     {
@@ -135,395 +711,26 @@
       "airline": "Delta Air Lines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T22:20:00+00:00",
-      "time_iso": "2026-11-14T22:20:00+00:00",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ3605",
+      "callsign": "LA3539",
       "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-11-14T17:15:00+00:00",
-      "time_iso": "2026-11-14T16:47:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ8020",
-      "airline": "LATAM Airlines",
-      "airport": "SAME",
-      "airport_name": "SAME",
-      "scheduled": "2026-11-14T16:30:00+00:00",
-      "time_iso": "2026-11-14T16:37:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "H85566",
-      "airline": "SKY Airline",
-      "airport": "SPJC",
-      "airport_name": "SPJC",
-      "scheduled": "2026-11-14T18:10:00+00:00",
-      "time_iso": "2026-11-14T18:10:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "TP5998",
-      "airline": "TAP Air Portugal",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
+      "airport": "SBVC",
+      "airport_name": "SBVC",
+      "scheduled": "2026-11-15T22:40:00+00:00",
+      "time_iso": "2026-11-15T22:40:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ3967",
-      "airline": "LATAM Airlines",
-      "airport": "SBMQ",
-      "airport_name": "Macapa",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:23:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3451",
-      "airline": "LATAM Airlines",
-      "airport": "SBMO",
-      "airport_name": "Maceio",
-      "scheduled": "2026-11-14T16:20:00+00:00",
-      "time_iso": "2026-11-14T16:00:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ9421",
-      "airline": "LATAM Airlines",
-      "airport": "SBCG",
-      "airport_name": "Campo Grande",
-      "scheduled": "2026-11-14T15:41:00+00:00",
-      "time_iso": "2026-11-14T15:41:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3719",
-      "airline": "LATAM Airlines",
-      "airport": "SBCH",
-      "airport_name": "SBCH",
-      "scheduled": "2026-11-14T14:40:00+00:00",
-      "time_iso": "2026-11-14T14:22:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "LA3335",
-      "airline": "LATAM Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "VS7723",
-      "airline": "Virgin Atlantic",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP8135",
-      "airline": "TAP Air Portugal",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9136",
-      "airline": "Turkish Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8336",
+      "callsign": "AR8353",
       "airline": "Aerolineas Argentinas",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31387",
-      "airline": "GOL",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2374",
-      "airline": "Air Europa",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5771",
-      "airline": "TAP Air Portugal",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "ET4173",
-      "airline": "Ethiopian Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "EK3642",
-      "airline": "Emirates",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3722",
-      "airline": "Copa Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AV4761",
-      "airline": "avianca",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR7608",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AA7680",
-      "airline": "American Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T20:50:00+00:00",
-      "time_iso": "2026-11-14T20:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3211",
-      "airline": "LATAM Airlines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DL6373",
-      "airline": "Delta Air Lines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP6298",
-      "airline": "TAP Air Portugal",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9124",
-      "airline": "Turkish Airlines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8328",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA4526",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "VS7716",
-      "airline": "Virgin Atlantic",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9556",
-      "airline": "Turkish Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5249",
-      "airline": "Qatar Airways",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JL5543",
-      "airline": "Japan Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DL7407",
-      "airline": "Delta Air Lines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8301",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:55:00+00:00",
-      "time_iso": "2026-11-14T21:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31239",
-      "airline": "GOL",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4206",
-      "airline": "TAP Air Portugal",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "ET4153",
-      "airline": "Ethiopian Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "EK3632",
-      "airline": "Emirates",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3661",
-      "airline": "Copa Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AV4748",
-      "airline": "avianca",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AT9089",
-      "airline": "Royal Air Maroc",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR7518",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AA7692",
-      "airline": "American Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T21:30:00+00:00",
-      "time_iso": "2026-11-14T21:30:00+00:00",
+      "airport": "SBVC",
+      "airport_name": "SBVC",
+      "scheduled": "2026-11-15T22:40:00+00:00",
+      "time_iso": "2026-11-15T22:40:00+00:00",
       "status": "programado"
     },
     {
@@ -531,89 +738,89 @@
       "airline": "LATAM Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T14:50:00+00:00",
-      "time_iso": "2026-11-14T14:40:00+00:00",
+      "scheduled": "2026-11-15T14:50:00+00:00",
+      "time_iso": "2026-11-15T15:01:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "DM6086",
-      "airline": "Arajet",
-      "airport": "MDPC",
-      "airport_name": "MDPC",
-      "scheduled": "2026-11-15T03:13:00+00:00",
-      "time_iso": "2026-11-15T03:13:00+00:00",
-      "status": "programado"
+      "callsign": "H85566",
+      "airline": "SKY Airline",
+      "airport": "SPJC",
+      "airport_name": "SPJC",
+      "scheduled": "2026-11-15T18:10:00+00:00",
+      "time_iso": "2026-11-15T17:48:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "LA3779",
+      "callsign": "JJ3967",
       "airline": "LATAM Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
+      "airport": "SBMQ",
+      "airport_name": "Macapa",
+      "scheduled": "2026-11-15T16:55:00+00:00",
+      "time_iso": "2026-11-15T16:53:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3605",
+      "airline": "LATAM Airlines",
+      "airport": "SBBE",
+      "airport_name": "Belem",
+      "scheduled": "2026-11-15T16:45:00+00:00",
+      "time_iso": "2026-11-15T16:47:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3451",
+      "airline": "LATAM Airlines",
+      "airport": "SBMO",
+      "airport_name": "Maceio",
+      "scheduled": "2026-11-15T16:20:00+00:00",
+      "time_iso": "2026-11-15T16:22:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3719",
+      "airline": "LATAM Airlines",
+      "airport": "SBCH",
+      "airport_name": "SBCH",
+      "scheduled": "2026-11-15T14:40:00+00:00",
+      "time_iso": "2026-11-15T14:26:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3283",
+      "airline": "LATAM Airlines",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T12:35:00+00:00",
+      "time_iso": "2026-11-15T12:35:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "DL7398",
-      "airline": "Delta Air Lines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
+      "callsign": "JJ8033",
+      "airline": "LATAM Airlines",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T15:35:00+00:00",
+      "time_iso": "2026-11-15T15:26:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "AR8246",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9130",
-      "airline": "Turkish Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR8452",
-      "airline": "Qatar Airways",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DL7364",
-      "airline": "Delta Air Lines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8184",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T20:45:00+00:00",
-      "time_iso": "2026-11-14T20:45:00+00:00",
-      "status": "programado"
+      "callsign": "TP4242",
+      "airline": "TAP Air Portugal",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA8127",
       "airline": "LATAM Airlines",
       "airport": "KMCO",
       "airport_name": "KMCO",
-      "scheduled": "2026-11-15T05:00:00+00:00",
-      "time_iso": "2026-11-15T05:00:00+00:00",
+      "scheduled": "2026-11-16T05:00:00+00:00",
+      "time_iso": "2026-11-16T05:00:00+00:00",
       "status": "programado"
     },
     {
@@ -621,134 +828,35 @@
       "airline": "Delta Air Lines",
       "airport": "KMCO",
       "airport_name": "KMCO",
-      "scheduled": "2026-11-15T05:00:00+00:00",
-      "time_iso": "2026-11-15T05:00:00+00:00",
+      "scheduled": "2026-11-16T05:00:00+00:00",
+      "time_iso": "2026-11-16T05:00:00+00:00",
       "status": "programado"
-    },
-    {
-      "callsign": "LA3297",
-      "airline": "LATAM Airlines",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T23:10:00+00:00",
-      "time_iso": "2026-11-14T23:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CA7133",
-      "airline": "Air China",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T23:10:00+00:00",
-      "time_iso": "2026-11-14T23:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9138",
-      "airline": "Turkish Airlines",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T23:10:00+00:00",
-      "time_iso": "2026-11-14T23:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5235",
-      "airline": "Qatar Airways",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T23:10:00+00:00",
-      "time_iso": "2026-11-14T23:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX57",
-      "airline": "Air Europa",
-      "airport": "LEMD",
-      "airport_name": "LEMD",
-      "scheduled": "2026-11-15T06:30:00+00:00",
-      "time_iso": "2026-11-15T06:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "IB267",
-      "airline": "Iberia",
-      "airport": "LEMD",
-      "airport_name": "LEMD",
-      "scheduled": "2026-11-15T07:05:00+00:00",
-      "time_iso": "2026-11-15T07:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LO4785",
-      "airline": "LOT",
-      "airport": "LPPT",
-      "airport_name": "LPPT",
-      "scheduled": "2026-11-14T23:55:00+00:00",
-      "time_iso": "2026-11-14T23:55:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "G38323",
-      "airline": "GOL",
-      "airport": "LPPT",
-      "airport_name": "LPPT",
-      "scheduled": "2026-11-14T23:55:00+00:00",
-      "time_iso": "2026-11-14T23:55:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "EK4796",
-      "airline": "Emirates",
-      "airport": "LPPT",
-      "airport_name": "LPPT",
-      "scheduled": "2026-11-14T23:55:00+00:00",
-      "time_iso": "2026-11-14T23:55:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AD7121",
-      "airline": "Azul",
-      "airport": "LPPT",
-      "airport_name": "LPPT",
-      "scheduled": "2026-11-14T23:55:00+00:00",
-      "time_iso": "2026-11-14T23:55:00+00:00",
-      "status": "em voo"
     },
     {
       "callsign": "LA3671",
       "airline": "LATAM Airlines",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "QR5253",
+      "callsign": "QR5145",
       "airline": "Qatar Airways",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "DL7418",
+      "callsign": "DL6136",
       "airline": "Delta Air Lines",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8082",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBJV",
-      "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
@@ -756,208 +864,64 @@
       "airline": "TAP Air Portugal",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "QR5123",
+      "callsign": "QR5253",
       "airline": "Qatar Airways",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AR8065",
+      "callsign": "DL7418",
+      "airline": "Delta Air Lines",
+      "airport": "SBJV",
+      "airport_name": "Joinville",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8082",
       "airline": "Aerolineas Argentinas",
       "airport": "SBJV",
       "airport_name": "Joinville",
-      "scheduled": "2026-11-14T20:25:00+00:00",
-      "time_iso": "2026-11-14T20:25:00+00:00",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "LA3545",
-      "airline": "LATAM Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5107",
-      "airline": "Qatar Airways",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DL6159",
-      "airline": "Delta Air Lines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8075",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "VS7727",
-      "airline": "Virgin Atlantic",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP8143",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK9128",
-      "airline": "Turkish Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DL6162",
-      "airline": "Delta Air Lines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8058",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:25:00+00:00",
-      "time_iso": "2026-11-14T21:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31493",
+      "callsign": "G31579",
       "airline": "GOL",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2303",
-      "airline": "Air Europa",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5988",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "ET4143",
-      "airline": "Ethiopian Airlines",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "EK3622",
-      "airline": "Emirates",
-      "airport": "SBGO",
-      "airport_name": "Goiania",
-      "scheduled": "2026-11-14T21:05:00+00:00",
-      "time_iso": "2026-11-14T21:05:00+00:00",
+      "airport": "SBJU",
+      "airport_name": "Juazeiro do Norte",
+      "scheduled": "2026-11-15T22:20:00+00:00",
+      "time_iso": "2026-11-15T22:20:00+00:00",
       "status": "programado"
     }
   ],
   "departures": [
     {
-      "callsign": "JJ3420",
-      "airline": "LATAM Airlines",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T13:35:00+00:00",
-      "time_iso": "2026-11-14T13:35:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3320",
-      "airline": "LATAM Airlines",
-      "airport": "SBFZ",
-      "airport_name": "Fortaleza",
-      "scheduled": "2026-11-14T13:40:00+00:00",
-      "time_iso": "2026-11-14T13:40:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3232",
-      "airline": "LATAM Airlines",
-      "airport": "SBBE",
-      "airport_name": "Belem",
-      "scheduled": "2026-11-14T13:30:00+00:00",
-      "time_iso": "2026-11-14T13:30:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3470",
-      "airline": "LATAM Airlines",
-      "airport": "SBJE",
-      "airport_name": "SBJE",
-      "scheduled": "2026-11-14T13:20:00+00:00",
-      "time_iso": "2026-11-14T13:47:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3612",
-      "airline": "LATAM Airlines",
-      "airport": "SBSL",
-      "airport_name": "Sao Luis",
-      "scheduled": "2026-11-14T13:05:00+00:00",
-      "time_iso": "2026-11-14T13:23:00+00:00",
-      "status": "em voo"
-    },
-    {
       "callsign": "QR7268",
       "airline": "Qatar Airways",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-11-14T15:50:00+00:00",
-      "time_iso": "2026-11-14T15:50:00+00:00",
+      "scheduled": "2026-11-15T15:50:00+00:00",
+      "time_iso": "2026-11-15T15:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DL6190",
+      "airline": "Delta Air Lines",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T15:50:00+00:00",
+      "time_iso": "2026-11-15T15:50:00+00:00",
       "status": "programado"
     },
     {
@@ -965,8 +929,314 @@
       "airline": "Aeromexico",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-11-14T15:50:00+00:00",
-      "time_iso": "2026-11-14T15:50:00+00:00",
+      "scheduled": "2026-11-15T15:50:00+00:00",
+      "time_iso": "2026-11-15T15:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3202",
+      "airline": "LATAM Airlines",
+      "airport": "SBFI",
+      "airport_name": "Foz do Iguacu",
+      "scheduled": "2026-11-15T12:15:00+00:00",
+      "time_iso": "2026-11-15T13:17:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3626",
+      "airline": "LATAM Airlines",
+      "airport": "SBUL",
+      "airport_name": "Uberlandia",
+      "scheduled": "2026-11-15T14:20:00+00:00",
+      "time_iso": "2026-11-15T14:38:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3440",
+      "airline": "LATAM Airlines",
+      "airport": "SBSG",
+      "airport_name": "Natal",
+      "scheduled": "2026-11-15T13:35:00+00:00",
+      "time_iso": "2026-11-15T13:35:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "QF3913",
+      "airline": "Qantas",
+      "airport": "SCEL",
+      "airport_name": "SCEL",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DL6288",
+      "airline": "Delta Air Lines",
+      "airport": "SCEL",
+      "airport_name": "SCEL",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5147",
+      "airline": "Qatar Airways",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T17:35:00+00:00",
+      "time_iso": "2026-11-15T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8202",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T17:35:00+00:00",
+      "time_iso": "2026-11-15T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "ET1266",
+      "airline": "Ethiopian Airlines",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T18:30:00+00:00",
+      "time_iso": "2026-11-15T18:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV4351",
+      "airline": "avianca",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T18:30:00+00:00",
+      "time_iso": "2026-11-15T18:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AC6520",
+      "airline": "Air Canada",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T18:30:00+00:00",
+      "time_iso": "2026-11-15T18:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5292",
+      "airline": "Qatar Airways",
+      "airport": "SBSG",
+      "airport_name": "Natal",
+      "scheduled": "2026-11-15T17:30:00+00:00",
+      "time_iso": "2026-11-15T17:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8351",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBSG",
+      "airport_name": "Natal",
+      "scheduled": "2026-11-15T17:30:00+00:00",
+      "time_iso": "2026-11-15T17:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4280",
+      "airline": "Azul",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T21:05:00+00:00",
+      "time_iso": "2026-11-15T21:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3986",
+      "airline": "LATAM Airlines",
+      "airport": "SBRJ",
+      "airport_name": "Rio / Santos Dumont",
+      "scheduled": "2026-11-15T21:00:00+00:00",
+      "time_iso": "2026-11-15T21:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3608",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-11-15T21:00:00+00:00",
+      "time_iso": "2026-11-15T21:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3378",
+      "airline": "LATAM Airlines",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T21:00:00+00:00",
+      "time_iso": "2026-11-15T21:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "KL792",
+      "airline": "KLM",
+      "airport": "EHAM",
+      "airport_name": "EHAM",
+      "scheduled": "2026-11-15T20:59:00+00:00",
+      "time_iso": "2026-11-15T20:59:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA4547",
+      "airline": "LATAM Airlines",
+      "airport": "SBPL",
+      "airport_name": "SBPL",
+      "scheduled": "2026-11-15T20:50:00+00:00",
+      "time_iso": "2026-11-15T20:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3888",
+      "airline": "LATAM Airlines",
+      "airport": "SBJU",
+      "airport_name": "Juazeiro do Norte",
+      "scheduled": "2026-11-15T20:50:00+00:00",
+      "time_iso": "2026-11-15T20:50:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA4654",
+      "airline": "LATAM Airlines",
+      "airport": "SBTE",
+      "airport_name": "Teresina",
+      "scheduled": "2026-11-15T20:45:00+00:00",
+      "time_iso": "2026-11-15T20:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AZ679",
+      "airline": "ITA Airways",
+      "airport": "LIRF",
+      "airport_name": "LIRF",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AF459",
+      "airline": "Air France",
+      "airport": "LFPG",
+      "airport_name": "LFPG",
+      "scheduled": "2026-11-15T20:40:00+00:00",
+      "time_iso": "2026-11-15T20:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA4551",
+      "airline": "LATAM Airlines",
+      "airport": "SBCT",
+      "airport_name": "Curitiba",
+      "scheduled": "2026-11-15T20:35:00+00:00",
+      "time_iso": "2026-11-15T20:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3880",
+      "airline": "LATAM Airlines",
+      "airport": "SBAR",
+      "airport_name": "SBAR",
+      "scheduled": "2026-11-15T20:35:00+00:00",
+      "time_iso": "2026-11-15T20:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "IB272",
+      "airline": "Iberia",
+      "airport": "LEMD",
+      "airport_name": "LEMD",
+      "scheduled": "2026-11-15T20:30:00+00:00",
+      "time_iso": "2026-11-15T20:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR780",
+      "airline": "Qatar Airways",
+      "airport": "OTHH",
+      "airport_name": "OTHH",
+      "scheduled": "2026-11-15T20:25:00+00:00",
+      "time_iso": "2026-11-15T20:25:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3368",
+      "airline": "LATAM Airlines",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T20:20:00+00:00",
+      "time_iso": "2026-11-15T20:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3242",
+      "airline": "LATAM Airlines",
+      "airport": "SBVT",
+      "airport_name": "Vitoria",
+      "scheduled": "2026-11-15T20:20:00+00:00",
+      "time_iso": "2026-11-15T20:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR1251",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T20:20:00+00:00",
+      "time_iso": "2026-11-15T20:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3252",
+      "airline": "LATAM Airlines",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-15T20:15:00+00:00",
+      "time_iso": "2026-11-15T20:15:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3194",
+      "airline": "LATAM Airlines",
+      "airport": "SBTE",
+      "airport_name": "Teresina",
+      "scheduled": "2026-11-15T14:05:00+00:00",
+      "time_iso": "2026-11-15T14:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ4646",
+      "airline": "LATAM Airlines",
+      "airport": "SBAR",
+      "airport_name": "SBAR",
+      "scheduled": "2026-11-15T13:50:00+00:00",
+      "time_iso": "2026-11-15T14:28:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3464",
+      "airline": "LATAM Airlines",
+      "airport": "SBJP",
+      "airport_name": "Joao Pessoa",
+      "scheduled": "2026-11-15T13:50:00+00:00",
+      "time_iso": "2026-11-15T14:11:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AR8200",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-15T17:25:00+00:00",
+      "time_iso": "2026-11-15T17:25:00+00:00",
       "status": "programado"
     },
     {
@@ -974,8 +1244,62 @@
       "airline": "LATAM Airlines",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-11-14T13:25:00+00:00",
-      "time_iso": "2026-11-14T13:25:00+00:00",
+      "scheduled": "2026-11-15T13:45:00+00:00",
+      "time_iso": "2026-11-15T14:18:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "ET1251",
+      "airline": "Ethiopian Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-11-15T19:20:00+00:00",
+      "time_iso": "2026-11-15T19:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM7065",
+      "airline": "Copa Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-11-15T19:20:00+00:00",
+      "time_iso": "2026-11-15T19:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AV4334",
+      "airline": "avianca",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-11-15T19:20:00+00:00",
+      "time_iso": "2026-11-15T19:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "JJ3554",
+      "airline": "LATAM Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-11-15T13:15:00+00:00",
+      "time_iso": "2026-11-15T14:09:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3366",
+      "airline": "LATAM Airlines",
+      "airport": "SBGL",
+      "airport_name": "Rio de Janeiro / Galeao",
+      "scheduled": "2026-11-15T13:05:00+00:00",
+      "time_iso": "2026-11-15T13:48:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3320",
+      "airline": "LATAM Airlines",
+      "airport": "SBFZ",
+      "airport_name": "Fortaleza",
+      "scheduled": "2026-11-15T13:35:00+00:00",
+      "time_iso": "2026-11-15T13:58:00+00:00",
       "status": "em voo"
     },
     {
@@ -983,323 +1307,98 @@
       "airline": "LATAM Airlines",
       "airport": "SBCT",
       "airport_name": "Curitiba",
-      "scheduled": "2026-11-14T13:15:00+00:00",
-      "time_iso": "2026-11-14T13:44:00+00:00",
+      "scheduled": "2026-11-15T13:25:00+00:00",
+      "time_iso": "2026-11-15T13:43:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "JJ4579",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T14:10:00+00:00",
-      "time_iso": "2026-11-14T14:10:00+00:00",
-      "status": "programado"
+      "callsign": "TP5786",
+      "airline": "TAP Air Portugal",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T14:15:00+00:00",
+      "time_iso": "2026-11-15T14:15:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "AR8124",
+      "callsign": "KL9354",
+      "airline": "KLM",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T14:15:00+00:00",
+      "time_iso": "2026-11-15T14:15:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "AR7711",
       "airline": "Aerolineas Argentinas",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T17:25:00+00:00",
-      "time_iso": "2026-11-14T17:25:00+00:00",
-      "status": "programado"
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T14:15:00+00:00",
+      "time_iso": "2026-11-15T14:15:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "AM8469",
-      "airline": "Aeromexico",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T17:25:00+00:00",
-      "time_iso": "2026-11-14T17:25:00+00:00",
-      "status": "programado"
+      "callsign": "AF1912",
+      "airline": "Air France",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T14:15:00+00:00",
+      "time_iso": "2026-11-15T14:15:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "DT6398",
-      "airline": "TAAG Angola Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
+      "callsign": "AC9837",
+      "airline": "Air Canada",
+      "airport": "SABE",
+      "airport_name": "SABE",
+      "scheduled": "2026-11-15T14:15:00+00:00",
+      "time_iso": "2026-11-15T14:15:00+00:00",
+      "status": "em voo"
     },
     {
-      "callsign": "QR5158",
-      "airline": "Qatar Airways",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T14:15:00+00:00",
-      "time_iso": "2026-11-14T14:15:00+00:00",
-      "status": "programado"
+      "callsign": "JJ3470",
+      "airline": "LATAM Airlines",
+      "airport": "SBJE",
+      "airport_name": "SBJE",
+      "scheduled": "2026-11-15T13:20:00+00:00",
+      "time_iso": "2026-11-15T13:35:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "JJ3568",
       "airline": "LATAM Airlines",
       "airport": "SBPV",
       "airport_name": "Porto Velho",
-      "scheduled": "2026-11-14T13:20:00+00:00",
-      "time_iso": "2026-11-14T13:38:00+00:00",
+      "scheduled": "2026-11-15T13:15:00+00:00",
+      "time_iso": "2026-11-15T13:30:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "JJ3596",
+      "callsign": "JJ3612",
       "airline": "LATAM Airlines",
-      "airport": "SBUR",
-      "airport_name": "SBUR",
-      "scheduled": "2026-11-14T13:20:00+00:00",
-      "time_iso": "2026-11-14T13:29:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "JJ3366",
-      "airline": "LATAM Airlines",
-      "airport": "SBGL",
-      "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-11-14T12:55:00+00:00",
-      "time_iso": "2026-11-14T13:21:00+00:00",
+      "airport": "SBSL",
+      "airport_name": "Sao Luis",
+      "scheduled": "2026-11-15T13:05:00+00:00",
+      "time_iso": "2026-11-15T13:20:00+00:00",
       "status": "em voo"
-    },
-    {
-      "callsign": "JJ8022",
-      "airline": "LATAM Airlines",
-      "airport": "SAEZ",
-      "airport_name": "SAEZ",
-      "scheduled": "2026-11-14T13:00:00+00:00",
-      "time_iso": "2026-11-14T13:10:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3554",
-      "airline": "LATAM Airlines",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-11-14T13:10:00+00:00",
-      "time_iso": "2026-11-14T13:25:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "QR8415",
-      "airline": "Qatar Airways",
-      "airport": "SBVC",
-      "airport_name": "SBVC",
-      "scheduled": "2026-11-14T18:00:00+00:00",
-      "time_iso": "2026-11-14T18:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8383",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBVC",
-      "airport_name": "SBVC",
-      "scheduled": "2026-11-14T18:00:00+00:00",
-      "time_iso": "2026-11-14T18:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2355",
-      "airline": "Air Europa",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-11-14T17:00:00+00:00",
-      "time_iso": "2026-11-14T17:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5842",
-      "airline": "TAP Air Portugal",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-11-14T17:00:00+00:00",
-      "time_iso": "2026-11-14T17:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3537",
-      "airline": "Copa Airlines",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-11-14T17:00:00+00:00",
-      "time_iso": "2026-11-14T17:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR7520",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-11-14T17:00:00+00:00",
-      "time_iso": "2026-11-14T17:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8055",
-      "airline": "Aeromexico",
-      "airport": "SBSV",
-      "airport_name": "Salvador",
-      "scheduled": "2026-11-14T17:00:00+00:00",
-      "time_iso": "2026-11-14T17:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2889",
-      "airline": "Air Europa",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-11-14T16:40:00+00:00",
-      "time_iso": "2026-11-14T16:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UA7338",
-      "airline": "United Airlines",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-11-14T16:40:00+00:00",
-      "time_iso": "2026-11-14T16:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5177",
-      "airline": "TAP Air Portugal",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-11-14T16:40:00+00:00",
-      "time_iso": "2026-11-14T16:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AV4585",
-      "airline": "avianca",
-      "airport": "SBRF",
-      "airport_name": "Recife",
-      "scheduled": "2026-11-14T16:40:00+00:00",
-      "time_iso": "2026-11-14T16:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8000",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBRP",
-      "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-11-14T18:45:00+00:00",
-      "time_iso": "2026-11-14T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR8424",
-      "airline": "Qatar Airways",
-      "airport": "SBRP",
-      "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-11-14T18:45:00+00:00",
-      "time_iso": "2026-11-14T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LX9736",
-      "airline": "Swiss",
-      "airport": "SBRP",
-      "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-11-14T18:45:00+00:00",
-      "time_iso": "2026-11-14T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8003",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBRP",
-      "airport_name": "Ribeirao Preto",
-      "scheduled": "2026-11-14T18:45:00+00:00",
-      "time_iso": "2026-11-14T18:45:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR8423",
-      "airline": "Qatar Airways",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8013",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBPA",
-      "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "DT6172",
-      "airline": "TAAG Angola Airlines",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2307",
-      "airline": "Air Europa",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4148",
-      "airline": "TAP Air Portugal",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3580",
-      "airline": "Copa Airlines",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8050",
-      "airline": "Aeromexico",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AC9832",
-      "airline": "Air Canada",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T17:30:00+00:00",
-      "time_iso": "2026-11-14T17:30:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "LA4652",
       "airline": "LATAM Airlines",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-11-14T20:05:00+00:00",
-      "time_iso": "2026-11-14T20:05:00+00:00",
+      "scheduled": "2026-11-15T20:05:00+00:00",
+      "time_iso": "2026-11-15T20:05:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "LA3562",
+      "callsign": "LA3606",
       "airline": "LATAM Airlines",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T20:00:00+00:00",
-      "time_iso": "2026-11-14T20:00:00+00:00",
+      "airport": "SBMO",
+      "airport_name": "Maceio",
+      "scheduled": "2026-11-15T20:05:00+00:00",
+      "time_iso": "2026-11-15T20:05:00+00:00",
       "status": "programado"
     },
     {
@@ -1307,8 +1406,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T20:00:00+00:00",
-      "time_iso": "2026-11-14T20:00:00+00:00",
+      "scheduled": "2026-11-15T20:05:00+00:00",
+      "time_iso": "2026-11-15T20:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3562",
+      "airline": "LATAM Airlines",
+      "airport": "SBEG",
+      "airport_name": "Manaus",
+      "scheduled": "2026-11-15T20:00:00+00:00",
+      "time_iso": "2026-11-15T20:00:00+00:00",
       "status": "programado"
     },
     {
@@ -1316,8 +1424,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSL",
       "airport_name": "Sao Luis",
-      "scheduled": "2026-11-14T19:45:00+00:00",
-      "time_iso": "2026-11-14T19:45:00+00:00",
+      "scheduled": "2026-11-15T19:45:00+00:00",
+      "time_iso": "2026-11-15T19:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1325,8 +1433,8 @@
       "airline": "LATAM Airlines",
       "airport": "SCEL",
       "airport_name": "SCEL",
-      "scheduled": "2026-11-14T19:30:00+00:00",
-      "time_iso": "2026-11-14T19:30:00+00:00",
+      "scheduled": "2026-11-15T19:30:00+00:00",
+      "time_iso": "2026-11-15T19:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1334,17 +1442,8 @@
       "airline": "Swiss",
       "airport": "LSZH",
       "airport_name": "LSZH",
-      "scheduled": "2026-11-14T19:25:00+00:00",
-      "time_iso": "2026-11-14T19:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "H25567",
-      "airline": "SKY Airline",
-      "airport": "SPJC",
-      "airport_name": "SPJC",
-      "scheduled": "2026-11-14T19:25:00+00:00",
-      "time_iso": "2026-11-14T19:25:00+00:00",
+      "scheduled": "2026-11-15T19:25:00+00:00",
+      "time_iso": "2026-11-15T19:25:00+00:00",
       "status": "programado"
     },
     {
@@ -1352,8 +1451,17 @@
       "airline": "Turkish Airlines",
       "airport": "SAEZ",
       "airport_name": "SAEZ",
-      "scheduled": "2026-11-14T19:20:00+00:00",
-      "time_iso": "2026-11-14T19:20:00+00:00",
+      "scheduled": "2026-11-15T19:20:00+00:00",
+      "time_iso": "2026-11-15T19:20:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4547",
+      "airline": "Azul",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-11-15T19:20:00+00:00",
+      "time_iso": "2026-11-15T19:20:00+00:00",
       "status": "programado"
     },
     {
@@ -1361,8 +1469,8 @@
       "airline": "LATAM Airlines",
       "airport": "SPJC",
       "airport_name": "SPJC",
-      "scheduled": "2026-11-14T19:15:00+00:00",
-      "time_iso": "2026-11-14T19:15:00+00:00",
+      "scheduled": "2026-11-15T19:15:00+00:00",
+      "time_iso": "2026-11-15T19:15:00+00:00",
       "status": "programado"
     },
     {
@@ -1370,62 +1478,17 @@
       "airline": "GOL",
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
-      "scheduled": "2026-11-14T19:15:00+00:00",
-      "time_iso": "2026-11-14T19:15:00+00:00",
+      "scheduled": "2026-11-15T19:15:00+00:00",
+      "time_iso": "2026-11-15T19:15:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AD4080",
-      "airline": "Azul",
-      "airport": "SBRJ",
-      "airport_name": "Rio / Santos Dumont",
-      "scheduled": "2026-11-14T19:15:00+00:00",
-      "time_iso": "2026-11-14T19:15:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR7286",
-      "airline": "Qatar Airways",
-      "airport": "SBJE",
-      "airport_name": "SBJE",
-      "scheduled": "2026-11-14T13:20:00+00:00",
-      "time_iso": "2026-11-14T13:47:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3526",
-      "airline": "LATAM Airlines",
-      "airport": "SBNF",
-      "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T12:20:00+00:00",
-      "time_iso": "2026-11-14T12:38:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "QR5220",
-      "airline": "Qatar Airways",
-      "airport": "SBFZ",
-      "airport_name": "Fortaleza",
-      "scheduled": "2026-11-14T15:50:00+00:00",
-      "time_iso": "2026-11-14T15:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8141",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBFZ",
-      "airport_name": "Fortaleza",
-      "scheduled": "2026-11-14T15:50:00+00:00",
-      "time_iso": "2026-11-14T15:50:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8478",
-      "airline": "Aeromexico",
-      "airport": "SBFZ",
-      "airport_name": "Fortaleza",
-      "scheduled": "2026-11-14T15:50:00+00:00",
-      "time_iso": "2026-11-14T15:50:00+00:00",
+      "callsign": "H25567",
+      "airline": "SKY Airline",
+      "airport": "SPJC",
+      "airport_name": "SPJC",
+      "scheduled": "2026-11-15T19:10:00+00:00",
+      "time_iso": "2026-11-15T19:10:00+00:00",
       "status": "programado"
     },
     {
@@ -1433,296 +1496,161 @@
       "airline": "Aerolineas Argentinas",
       "airport": "SBFL",
       "airport_name": "Florianopolis",
-      "scheduled": "2026-11-14T18:00:00+00:00",
-      "time_iso": "2026-11-14T18:00:00+00:00",
+      "scheduled": "2026-11-15T18:00:00+00:00",
+      "time_iso": "2026-11-15T18:00:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AR8007",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBFL",
-      "airport_name": "Florianopolis",
-      "scheduled": "2026-11-14T18:00:00+00:00",
-      "time_iso": "2026-11-14T18:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ8281",
+      "callsign": "JJ8022",
       "airline": "LATAM Airlines",
-      "airport": "SACO",
-      "airport_name": "SACO",
-      "scheduled": "2026-11-14T13:00:00+00:00",
-      "time_iso": "2026-11-14T13:13:00+00:00",
+      "airport": "SAEZ",
+      "airport_name": "SAEZ",
+      "scheduled": "2026-11-15T13:00:00+00:00",
+      "time_iso": "2026-11-15T13:08:00+00:00",
       "status": "em voo"
-    },
-    {
-      "callsign": "CM3742",
-      "airline": "Copa Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T18:25:00+00:00",
-      "time_iso": "2026-11-14T18:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AV2671",
-      "airline": "avianca",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T18:25:00+00:00",
-      "time_iso": "2026-11-14T18:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR7503",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T18:25:00+00:00",
-      "time_iso": "2026-11-14T18:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8081",
-      "airline": "Aeromexico",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T18:25:00+00:00",
-      "time_iso": "2026-11-14T18:25:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "QR5168",
       "airline": "Qatar Airways",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T17:35:00+00:00",
-      "time_iso": "2026-11-14T17:35:00+00:00",
+      "scheduled": "2026-11-15T17:55:00+00:00",
+      "time_iso": "2026-11-15T17:55:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AR8017",
+      "callsign": "IB6578",
+      "airline": "Iberia",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-11-15T17:55:00+00:00",
+      "time_iso": "2026-11-15T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "BA7639",
+      "airline": "British Airways",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-11-15T17:55:00+00:00",
+      "time_iso": "2026-11-15T17:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8115",
       "airline": "Aerolineas Argentinas",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-11-14T17:35:00+00:00",
-      "time_iso": "2026-11-14T17:35:00+00:00",
+      "scheduled": "2026-11-15T17:55:00+00:00",
+      "time_iso": "2026-11-15T17:55:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ8082",
-      "airline": "LATAM Airlines",
-      "airport": "MDPC",
-      "airport_name": "MDPC",
-      "scheduled": "2026-11-14T14:00:00+00:00",
-      "time_iso": "2026-11-14T14:00:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AM8480",
-      "airline": "Aeromexico",
-      "airport": "SBJE",
-      "airport_name": "SBJE",
-      "scheduled": "2026-11-14T13:20:00+00:00",
-      "time_iso": "2026-11-14T13:47:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3202",
-      "airline": "LATAM Airlines",
-      "airport": "SBFI",
-      "airport_name": "Foz do Iguacu",
-      "scheduled": "2026-11-14T12:15:00+00:00",
-      "time_iso": "2026-11-14T12:33:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3114",
-      "airline": "LATAM Airlines",
-      "airport": "SBEG",
-      "airport_name": "Manaus",
-      "scheduled": "2026-11-14T12:05:00+00:00",
-      "time_iso": "2026-11-14T12:36:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ8186",
-      "airline": "LATAM Airlines",
-      "airport": "KMCO",
-      "airport_name": "KMCO",
-      "scheduled": "2026-11-14T11:40:00+00:00",
-      "time_iso": "2026-11-14T11:40:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "TP5930",
-      "airline": "TAP Air Portugal",
-      "airport": "SBPF",
-      "airport_name": "SBPF",
-      "scheduled": "2026-11-14T16:30:00+00:00",
-      "time_iso": "2026-11-14T16:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8047",
-      "airline": "Aeromexico",
-      "airport": "SBPF",
-      "airport_name": "SBPF",
-      "scheduled": "2026-11-14T16:30:00+00:00",
-      "time_iso": "2026-11-14T16:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AF1966",
-      "airline": "Air France",
-      "airport": "SBPF",
-      "airport_name": "SBPF",
-      "scheduled": "2026-11-14T16:30:00+00:00",
-      "time_iso": "2026-11-14T16:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8920",
-      "airline": "Aeromexico",
-      "airport": "SGAS",
-      "airport_name": "SGAS",
-      "scheduled": "2026-11-14T16:00:00+00:00",
-      "time_iso": "2026-11-14T16:00:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5250",
+      "callsign": "QR8415",
       "airline": "Qatar Airways",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T17:25:00+00:00",
-      "time_iso": "2026-11-14T17:25:00+00:00",
+      "airport": "SBVC",
+      "airport_name": "SBVC",
+      "scheduled": "2026-11-15T18:00:00+00:00",
+      "time_iso": "2026-11-15T18:00:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AR8225",
+      "callsign": "AR8383",
       "airline": "Aerolineas Argentinas",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T17:25:00+00:00",
-      "time_iso": "2026-11-14T17:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8488",
-      "airline": "Aeromexico",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T17:25:00+00:00",
-      "time_iso": "2026-11-14T17:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "UX2375",
-      "airline": "Air Europa",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP4171",
-      "airline": "TAP Air Portugal",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "CM3620",
-      "airline": "Copa Airlines",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR7494",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AM8007",
-      "airline": "Aeromexico",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AC9830",
-      "airline": "Air Canada",
-      "airport": "SBVT",
-      "airport_name": "Vitoria",
-      "scheduled": "2026-11-14T16:55:00+00:00",
-      "time_iso": "2026-11-14T16:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5157",
-      "airline": "Qatar Airways",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AR8362",
-      "airline": "Aerolineas Argentinas",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
+      "airport": "SBVC",
+      "airport_name": "SBVC",
+      "scheduled": "2026-11-15T18:00:00+00:00",
+      "time_iso": "2026-11-15T18:00:00+00:00",
       "status": "programado"
     },
     {
       "callsign": "TK9550",
       "airline": "Turkish Airlines",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:30:00+00:00",
+      "time_iso": "2026-11-15T17:30:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "QR5153",
+      "callsign": "QR5226",
       "airline": "Qatar Airways",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:30:00+00:00",
+      "time_iso": "2026-11-15T17:30:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AR8034",
+      "callsign": "AR8329",
       "airline": "Aerolineas Argentinas",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:30:00+00:00",
+      "time_iso": "2026-11-15T17:30:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "AM8568",
+      "callsign": "UX2692",
+      "airline": "Air Europa",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5842",
+      "airline": "TAP Air Portugal",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DT6694",
+      "airline": "TAAG Angola Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM3742",
+      "airline": "Copa Airlines",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR7520",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AM8055",
       "airline": "Aeromexico",
-      "airport": "SBUL",
-      "airport_name": "Uberlandia",
-      "scheduled": "2026-11-14T17:40:00+00:00",
-      "time_iso": "2026-11-14T17:40:00+00:00",
+      "airport": "SBSV",
+      "airport_name": "Salvador",
+      "scheduled": "2026-11-15T17:00:00+00:00",
+      "time_iso": "2026-11-15T17:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP5177",
+      "airline": "TAP Air Portugal",
+      "airport": "SBRF",
+      "airport_name": "Recife",
+      "scheduled": "2026-11-15T16:40:00+00:00",
+      "time_iso": "2026-11-15T16:40:00+00:00",
       "status": "programado"
     },
     {
@@ -1730,8 +1658,8 @@
       "airline": "Qatar Airways",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-11-14T15:40:00+00:00",
-      "time_iso": "2026-11-14T15:40:00+00:00",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1739,8 +1667,8 @@
       "airline": "Delta Air Lines",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-11-14T15:40:00+00:00",
-      "time_iso": "2026-11-14T15:40:00+00:00",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1748,8 +1676,8 @@
       "airline": "Aerolineas Argentinas",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-11-14T15:40:00+00:00",
-      "time_iso": "2026-11-14T15:40:00+00:00",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1757,17 +1685,53 @@
       "airline": "Aeromexico",
       "airport": "SBRF",
       "airport_name": "Recife",
-      "scheduled": "2026-11-14T15:40:00+00:00",
-      "time_iso": "2026-11-14T15:40:00+00:00",
+      "scheduled": "2026-11-15T16:30:00+00:00",
+      "time_iso": "2026-11-15T16:30:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "TP4107",
-      "airline": "TAP Air Portugal",
+      "callsign": "AR8013",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR8424",
+      "airline": "Qatar Airways",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LX9736",
+      "airline": "Swiss",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8000",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBRP",
+      "airport_name": "Ribeirao Preto",
+      "scheduled": "2026-11-15T18:45:00+00:00",
+      "time_iso": "2026-11-15T18:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DT6236",
+      "airline": "TAAG Angola Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:10:00+00:00",
-      "time_iso": "2026-11-14T17:10:00+00:00",
+      "scheduled": "2026-11-15T17:45:00+00:00",
+      "time_iso": "2026-11-15T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1775,8 +1739,8 @@
       "airline": "Copa Airlines",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:10:00+00:00",
-      "time_iso": "2026-11-14T17:10:00+00:00",
+      "scheduled": "2026-11-15T17:45:00+00:00",
+      "time_iso": "2026-11-15T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1784,8 +1748,8 @@
       "airline": "Aerolineas Argentinas",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:10:00+00:00",
-      "time_iso": "2026-11-14T17:10:00+00:00",
+      "scheduled": "2026-11-15T17:45:00+00:00",
+      "time_iso": "2026-11-15T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1793,17 +1757,53 @@
       "airline": "Aeromexico",
       "airport": "SBPA",
       "airport_name": "Porto Alegre",
-      "scheduled": "2026-11-14T17:10:00+00:00",
-      "time_iso": "2026-11-14T17:10:00+00:00",
+      "scheduled": "2026-11-15T17:45:00+00:00",
+      "time_iso": "2026-11-15T17:45:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "QR5136",
+      "callsign": "QR8423",
       "airline": "Qatar Airways",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T17:35:00+00:00",
+      "time_iso": "2026-11-15T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AR8247",
+      "airline": "Aerolineas Argentinas",
+      "airport": "SBPA",
+      "airport_name": "Porto Alegre",
+      "scheduled": "2026-11-15T17:35:00+00:00",
+      "time_iso": "2026-11-15T17:35:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "ET4140",
+      "airline": "Ethiopian Airlines",
       "airport": "SBNF",
       "airport_name": "Navegantes",
-      "scheduled": "2026-11-14T17:45:00+00:00",
-      "time_iso": "2026-11-14T17:45:00+00:00",
+      "scheduled": "2026-11-15T18:40:00+00:00",
+      "time_iso": "2026-11-15T18:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "UX2687",
+      "airline": "Air Europa",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T18:40:00+00:00",
+      "time_iso": "2026-11-15T18:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP4112",
+      "airline": "TAP Air Portugal",
+      "airport": "SBNF",
+      "airport_name": "Navegantes",
+      "scheduled": "2026-11-15T18:40:00+00:00",
+      "time_iso": "2026-11-15T18:40:00+00:00",
       "status": "programado"
     }
   ]
